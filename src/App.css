@@ -1,0 +1,79 @@
+.logincontainer{
+  width:310px;
+  height: 400px;
+  background-color: rgb(157, 152, 180);
+  margin: 50px;
+  margin-left: 500px;
+  align-items: center;
+  border-radius: 42px;
+}
+.center{
+  padding-top: 55px;
+  margin: 40px;
+  margin-top: 20px;
+}
+.homepageHeader{
+  font-size: large;
+  color: #FFFFFF;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 40px;
+  background-color: rgb(92, 92, 199);
+}
+.homepage{
+  margin-left: 20px;
+}
+.logoutButton{
+  margin-right: 20px; 
+  width: 70px;  
+  color: #FFFFFF;
+  background: #672900;
+  border-radius: 10px;
+}
+.total{
+  width: 100%;
+  height: 100%;
+}
+.upload{
+  display: flex;
+  margin-right: 30px;
+  float: right;
+}
+.fragments{
+  border-radius: 20px;
+  width: 80%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(210, 217, 223);
+  margin: 10px;
+}
+.fragments_{
+  border-radius: 20px;
+  width: 80%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(210, 217, 223);
+  margin: 10px; 
+}
+.buttonAline{
+  margin-right: 10px;
+}
+.buttonAline:disabled{
+  cursor: crosshair;
+}
+.simpleUserButton{
+  width: 100%px;
+  margin-right: 20px;
+  border-radius:29px ;
+  margin-top: 9px;
+  height: 36px;
+}
+.filename{
+  margin-left: 20px;
+  color:black;
+  font-size: medium;
+}
